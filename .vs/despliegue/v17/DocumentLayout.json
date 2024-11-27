@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repository\\Learn\\aspnetcoreproyecto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E183153A-A661-4AAC-A4C0-BE2CF4D62E06}|despliegue\\despliegue.csproj|c:\\repository\\learn\\aspnetcoreproyecto\\despliegue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E183153A-A661-4AAC-A4C0-BE2CF4D62E06}|despliegue\\despliegue.csproj|solutionrelative:despliegue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E183153A-A661-4AAC-A4C0-BE2CF4D62E06}|despliegue\\despliegue.csproj|c:\\repository\\learn\\aspnetcoreproyecto\\despliegue\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E183153A-A661-4AAC-A4C0-BE2CF4D62E06}|despliegue\\despliegue.csproj|solutionrelative:despliegue\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repository\\Learn\\aspnetcoreproyecto\\despliegue\\Program.cs",
+              "RelativeDocumentMoniker": "despliegue\\Program.cs",
+              "ToolTip": "C:\\Repository\\Learn\\aspnetcoreproyecto\\despliegue\\Program.cs",
+              "RelativeToolTip": "despliegue\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T10:13:11.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Repository\\Learn\\aspnetcoreproyecto\\despliegue\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "despliegue\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Repository\\Learn\\aspnetcoreproyecto\\despliegue\\Pages\\Index.cshtml",
+              "RelativeToolTip": "despliegue\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T10:12:33.332Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
